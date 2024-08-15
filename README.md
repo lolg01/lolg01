@@ -1,16 +1,16 @@
 ## Hi there 👋
 
+Olá meu nome é Elloa 
 
-**lolg01/lolg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem do JavaScrip
+- Utilizo esse espaço para organizanção e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  elloaalves180@gmail.com
+
+  @eloateixeira
+
+![](https://media.tenor.com/2AVIDlfSjUIAAAAj/barbie.gif)
   
